@@ -1,0 +1,818 @@
+[
+  {
+    "stock name": "Alphabet Inc.",
+    "rating": "S"
+  },
+  {
+    "stock name": "Deere & Company",
+    "rating": "S"
+  },
+  {
+    "stock name": "Atlassian Corporation Plc",
+    "rating": "A+"
+  },
+  {
+    "stock name": "Vertex Pharmaceuticals",
+    "rating": "A+"
+  },
+  {
+    "stock name": "TotalEnergies SE",
+    "rating": "A"
+  },
+  {
+    "stock name": "Apple Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Microsoft Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Amazon.com, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Alphabet Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Meta Platforms, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "NVIDIA Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Tesla, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Oracle Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Advanced Micro Devices, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Salesforce",
+    "rating": "A"
+  },
+  {
+    "stock name": "Netflix, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Qualcomm Incorporated",
+    "rating": "A"
+  },
+  {
+    "stock name": "Cisco Systems, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "McDonald's Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Coca-Cola Company",
+    "rating": "A"
+  },
+  {
+    "stock name": "PepsiCo, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Costco Wholesale Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Walmart Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Home Depot",
+    "rating": "A"
+  },
+  {
+    "stock name": "Dollar Tree",
+    "rating": "A"
+  },
+  {
+    "stock name": "Yum! Brands, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Procter & Gamble",
+    "rating": "A"
+  },
+  {
+    "stock name": "JPMorgan Chase & Co.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Bank of America",
+    "rating": "A"
+  },
+  {
+    "stock name": "Goldman Sachs Group, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "American Express",
+    "rating": "A"
+  },
+  {
+    "stock name": "BlackRock, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Visa Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Mastercard Incorporated",
+    "rating": "A"
+  },
+  {
+    "stock name": "PNC Financial Services Group, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Royal Bank of Canada",
+    "rating": "A"
+  },
+  {
+    "stock name": "Johnson & Johnson",
+    "rating": "A"
+  },
+  {
+    "stock name": "Merck & Co., Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "AbbVie Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Bristol-Myers Squibb Company",
+    "rating": "A"
+  },
+  {
+    "stock name": "Eli Lilly and Company",
+    "rating": "A"
+  },
+  {
+    "stock name": "UnitedHealth Group",
+    "rating": "A"
+  },
+  {
+    "stock name": "Humana Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Cigna Group",
+    "rating": "A"
+  },
+  {
+    "stock name": "Gilead Sciences, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Amgen Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Regeneron Pharmaceuticals, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Zoetis Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Intuitive Surgical, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Baxter International Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Lockheed Martin Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "General Dynamics",
+    "rating": "A"
+  },
+  {
+    "stock name": "Northrop Grumman Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Raytheon Technologies",
+    "rating": "A"
+  },
+  {
+    "stock name": "Caterpillar Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Honeywell International Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Emerson Electric Co.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Eaton Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "United Parcel Service",
+    "rating": "A"
+  },
+  {
+    "stock name": "FedEx Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Union Pacific Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "CSX Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Stryker Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Waste Management, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Roper Technologies",
+    "rating": "A"
+  },
+  {
+    "stock name": "Parker Hannifin Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Exxon Mobil Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Chevron Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "BP",
+    "rating": "A"
+  },
+  {
+    "stock name": "E Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Williams Companies, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "ONEOK, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "SLB",
+    "rating": "A"
+  },
+  {
+    "stock name": "Halliburton Company",
+    "rating": "A"
+  },
+  {
+    "stock name": "Phillips 66",
+    "rating": "A"
+  },
+  {
+    "stock name": "Valero Energy Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Marathon Petroleum Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Devon Energy Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Pioneer Natural Resources Company",
+    "rating": "A"
+  },
+  {
+    "stock name": "EOG Resources",
+    "rating": "A"
+  },
+  {
+    "stock name": "ConocoPhillips",
+    "rating": "A"
+  },
+  {
+    "stock name": "EQT Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "American Tower Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Prologis, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Simon Property Group",
+    "rating": "A"
+  },
+  {
+    "stock name": "Realty Income Corporation",
+    "rating": "A"
+  },
+  {
+    "stock name": "Public Storage",
+    "rating": "A"
+  },
+  {
+    "stock name": "Extra Space Storage Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "AvalonBay Communities, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Essex Property Trust, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Sun Communities, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Alexandria Real Estate Equities",
+    "rating": "A"
+  },
+  {
+    "stock name": "DocuSign",
+    "rating": "A"
+  },
+  {
+    "stock name": "Datadog Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Snowflake Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "CrowdStrike Holdings, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Cloudflare Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Palo Alto Networks, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Shopify",
+    "rating": "A"
+  },
+  {
+    "stock name": "Pinterest",
+    "rating": "A"
+  },
+  {
+    "stock name": "Workday, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Zscaler Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "Enphase Energy, Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "CleanSpark Inc.",
+    "rating": "A"
+  },
+  {
+    "stock name": "SPDR S&P 500 ETF",
+    "rating": "A"
+  },
+  {
+    "stock name": "Vanguard S&P 500 ETF",
+    "rating": "A"
+  },
+  {
+    "stock name": "iShares Core S&P 500 ETF",
+    "rating": "A"
+  },
+  {
+    "stock name": "Invesco QQQ Trust",
+    "rating": "A"
+  },
+  {
+    "stock name": "Vanguard Total Stock Market ETF",
+    "rating": "A"
+  },
+  {
+    "stock name": "Schwab U.S. Broad Market ETF",
+    "rating": "A"
+  },
+  {
+    "stock name": "Vanguard Growth ETF",
+    "rating": "A"
+  },
+  {
+    "stock name": "Vanguard Small-Cap ETF",
+    "rating": "A"
+  },
+  {
+    "stock name": "Technology Select Sector SPDR Fund",
+    "rating": "A"
+  },
+  {
+    "stock name": "Energy Select Sector SPDR Fund",
+    "rating": "A"
+  },
+  {
+    "stock name": "Health Care Select Sector SPDR Fund",
+    "rating": "A"
+  },
+  {
+    "stock name": "Starbucks Corporation",
+    "rating": "A-"
+  },
+  {
+    "stock name": "Nike, Inc.",
+    "rating": "A-"
+  },
+  {
+    "stock name": "Morgan Stanley",
+    "rating": "A-"
+  },
+  {
+    "stock name": "Pfizer",
+    "rating": "A-"
+  },
+  {
+    "stock name": "CVS Health Corporation",
+    "rating": "A-"
+  },
+  {
+    "stock name": "Equinix, Inc.",
+    "rating": "A-"
+  },
+  {
+    "stock name": "Mid-America Apartment Communities",
+    "rating": "A-"
+  },
+  {
+    "stock name": "MongoDB, Inc.",
+    "rating": "A-"
+  },
+  {
+    "stock name": "SolarEdge Technologies, Inc.",
+    "rating": "A-"
+  },
+  {
+    "stock name": "Consumer Discretionary Select Sector SPDR Fund",
+    "rating": "A-"
+  },
+  {
+    "stock name": "SPDR Gold Shares",
+    "rating": "A-"
+  },
+  {
+    "stock name": "IBM",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Adobe Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Micron Technology",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Dollar General",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Tyson Foods, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Anheuser-Busch InBev",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Domino's Pizza, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "The Walt Disney Company",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Wells Fargo & Company",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Citigroup Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "U.S. Bancorp",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Truist Financial Corporation",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Capital One Financial Corporation",
+    "rating": "B+"
+  },
+  {
+    "stock name": "The Bank of New York Mellon Corporation",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Charles Schwab Corporation",
+    "rating": "B+"
+  },
+  {
+    "stock name": "PayPal Holdings, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Square Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "T. Rowe Price Group, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Medtronic plc",
+    "rating": "B+"
+  },
+  {
+    "stock name": "General Electric",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Shell plc",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Enbridge Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Kinder Morgan, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Welltower Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Ventas Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Digital Realty Trust, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Boston Properties, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Host Hotels & Resorts",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Zoom Video Communications",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Etsy, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Sea Limited",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Align Technology, Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Upwork Inc.",
+    "rating": "B+"
+  },
+  {
+    "stock name": "SPDR Dow Jones Industrial Average ETF Trust",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Vanguard Value ETF",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Vanguard Mid-Cap ETF",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Financial Select Sector SPDR Fund",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Consumer Staples Select Sector SPDR Fund",
+    "rating": "B+"
+  },
+  {
+    "stock name": "Intel Corporation",
+    "rating": "B"
+  },
+  {
+    "stock name": "AT&T Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Verizon Communications Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Target Corporation",
+    "rating": "B"
+  },
+  {
+    "stock name": "Ford Motor Company",
+    "rating": "B"
+  },
+  {
+    "stock name": "General Motors",
+    "rating": "B"
+  },
+  {
+    "stock name": "Unilever",
+    "rating": "B"
+  },
+  {
+    "stock name": "Moderna Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "3M Company",
+    "rating": "B"
+  },
+  {
+    "stock name": "Illinois Tool Works Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Crown Castle Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Equity Residential",
+    "rating": "B"
+  },
+  {
+    "stock name": "Starwood Property Trust, Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "The Boeing Company",
+    "rating": "B"
+  },
+  {
+    "stock name": "Okta, Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Roku, Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Spotify Technology S.A.",
+    "rating": "B"
+  },
+  {
+    "stock name": "PENN Entertainment, Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Plug Power Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Blink Charging Co.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Fastly",
+    "rating": "B"
+  },
+  {
+    "stock name": "Fiverr International Ltd.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Sunrun Inc.",
+    "rating": "B"
+  },
+  {
+    "stock name": "Bloom Energy Corporation",
+    "rating": "B"
+  },
+  {
+    "stock name": "iShares Russell 2000 ETF",
+    "rating": "B"
+  },
+  {
+    "stock name": "ARK Innovation ETF",
+    "rating": "B"
+  },
+  {
+    "stock name": "Twilio Inc.",
+    "rating": "B-"
+  },
+  {
+    "stock name": "Intellia Therapeutics",
+    "rating": "B-"
+  },
+  {
+    "stock name": "ChargePoint Holdings Inc.",
+    "rating": "C+"
+  },
+  {
+    "stock name": "CRISPR Therapeutics",
+    "rating": "C+"
+  },
+  {
+    "stock name": "Twist Bioscience Corporation",
+    "rating": "C+"
+  },
+  {
+    "stock name": "Snap Inc.",
+    "rating": "C"
+  },
+  {
+    "stock name": "Asana, Inc.",
+    "rating": "C"
+  },
+  {
+    "stock name": "Aterian, Inc.",
+    "rating": "C"
+  },
+  {
+    "stock name": "Shift Technologies, Inc.",
+    "rating": "C-"
+  },
+  {
+    "stock name": "Invitae Corporation",
+    "rating": "D+"
+  },
+  {
+    "stock name": "VRTX  ",
+    "rating": null
+  },
+  {
+    "stock name": "SYK  ",
+    "rating": null
+  },
+  {
+    "stock name": "BA  ",
+    "rating": null
+  },
+  {
+    "stock name": "TOT  ",
+    "rating": null
+  }
+]
